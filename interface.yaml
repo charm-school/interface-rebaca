@@ -1,0 +1,4 @@
+name: rebaca
+summary: Protocol for aggregating Cucumber test logs via relation
+version: 1
+maintainer: you@rebaca.com
